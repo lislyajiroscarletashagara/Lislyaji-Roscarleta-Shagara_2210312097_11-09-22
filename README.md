@@ -8,7 +8,7 @@
 |3. |Link github | https://github.com/lislyajiroscarletashagara |
 |4.| Link Edabit | https://edabit.com/user/zfGsXNSH33Feo6DzP |
 |5|Exp Edabit   | 55 xp |
-|6| Link Codewars|  |
+|6| Link Codewars| https://www.codewars.com/users/lislyajiroscarletashagara |
 |7| Level Jyu Codewars||
 
 Isilah biodata diatas dan updatelah setiap minggunya,
