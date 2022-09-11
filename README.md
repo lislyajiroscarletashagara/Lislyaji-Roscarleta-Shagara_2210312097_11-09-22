@@ -6,9 +6,9 @@
 |1. |Nama     | Lislyaji Roscarleta Shagara |
 |2.| NIM        | 2210312097 |
 |3. |Link github | https://github.com/lislyajiroscarletashagara |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
+|4.| Link Edabit | https://edabit.com/user/zfGsXNSH33Feo6DzP |
+|5|Exp Edabit   | 55 xp |
+|6| Link Codewars|  |
 |7| Level Jyu Codewars||
 
 Isilah biodata diatas dan updatelah setiap minggunya,
