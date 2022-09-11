@@ -5,7 +5,7 @@
 |---|:-------:|------:|
 |1. |Nama     | Lislyaji Roscarleta Shagara |
 |2.| NIM        | 2210312097 |
-|3. |Link github |  |
+|3. |Link github | https://github.com/lislyajiroscarletashagara |
 |4.| Link Edabit |  |
 |5|Exp Edabit   |   |
 |6| Link Codewars|    |
